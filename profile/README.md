@@ -1,6 +1,6 @@
 ## Hey, we're Meta Open Source 👋
 
-![Meta Open Source — two people looking out at a solar system of planets under a starry sky with the Meta logo overhead](images/meta-logo.webp)
+![Meta Open Source — two people looking out at a solar system of planets under a starry sky with the Meta logo overhead](https://github.com/Brodypen/facebook-github-readme/blob/main/images/meta-logo.webp)
 
 We believe open source brings out the best in both technology and people. Since the early days of Facebook, we've shared the tools we build internally with the world — and the world has made them better. From social infrastructure to AI research, the projects that power Meta are yours to use, contribute to, and build on.
 
