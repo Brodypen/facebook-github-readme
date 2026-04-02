@@ -1,31 +1,16 @@
-## Hey, we're Meta Open Source 👋
-
 ![Meta Open Source — two people looking out at a solar system of planets under a starry sky with the Meta logo overhead](https://github.com/Brodypen/facebook-github-readme/blob/main/images/meta-logo.webp)
 
-We believe open source brings out the best in both technology and people. Since the early days of Facebook, we've shared the tools we build internally with the world — and the world has made them better. From social infrastructure to AI research, the projects that power Meta are yours to use, contribute to, and build on.
+### 🌍 Empowering communities through open source technology.
 
-**What we work in:** JavaScript · TypeScript · Python · C++ · Rust · Java · Hack
-
-### 🌍 Why we open source
-
-We think open source software is bigger than any one company, and we've structured our entire engineering culture around that idea:
-
-- **Collaboration** — Developers everywhere working together toward common goals produce better outcomes than any team working alone.
-- **Community** — Diverse contributors bring diverse perspectives. The best technology is built when everyone has a seat at the table.
-- **Technology** — Open platforms become the foundations of entire industries. We want to build those foundations in the open.
+We believe open source accelerates the pace of innovation in the world. By sharing our code, our stack, or even our hardware designs, we're moving the industry forward while giving other companies and individuals a chance to use our platform to scale more quickly and build great products.
 
 ### 🚀 Built here, used everywhere
 
-With 1,000+ public repositories and projects deployed across billions of devices and research labs worldwide:
-
 - [**React**](https://github.com/facebook/react) — The library for building user interfaces across the web and native platforms
+- [**React Native**](https://github.com/facebook/react-native) - Build mobile apps with React.
 - [**PyTorch**](https://github.com/pytorch/pytorch) — The open source machine learning framework powering AI research worldwide
 - [**Llama**](https://github.com/meta-llama/llama-models) — Meta's family of open large language models
 - [**Docusaurus**](https://github.com/facebook/docusaurus) — Build beautiful documentation websites quickly and easily
-- [**Jest**](https://github.com/jestjs/jest) — Delightful JavaScript testing with a focus on simplicity
-- [**RocksDB**](https://github.com/facebook/rocksdb) — A high-performance embeddable key-value store for fast storage
-- [**Hermes**](https://github.com/facebook/hermes) — A JavaScript engine optimized for running React Native apps
-- [**Buck2**](https://github.com/facebook/buck2) — A fast, scalable build system used across Meta's monorepo
 
 [Explore all projects →](https://opensource.fb.com/projects)
 
@@ -40,12 +25,6 @@ Here's how to dive in:
 
 Interested in building open source as your day job? [Explore careers at Meta](https://www.metacareers.com).
 
-### 📖 How we work
-
-We maintain what we ship — if it's here, it's supported. All Meta open source projects follow our [Code of Conduct](https://opensource.fb.com/code-of-conduct) and are supported by [Meta's Open Source team](https://opensource.fb.com/about).
-
-Have a question or idea? Open an issue in the relevant repository, or join the conversation in [Meta for Developers](https://developers.facebook.com/community) — that's where the community lives.
-
 ---
 
-<sub>Learn more at [opensource.fb.com](https://opensource.fb.com)</sub>
+Meta open source projects follow our [Code of Conduct](https://opensource.fb.com/code-of-conduct) and are supported by [Meta's Open Source team](https://opensource.fb.com/about).
